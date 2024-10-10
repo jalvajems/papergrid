@@ -1,0 +1,15 @@
+img{
+    height: auto;
+    max-width:100% ;
+}
+.nav-bg{
+    margin-top: -10px;
+   }
+
+.contact-detials:hover{
+    color:white;
+
+}
+.col-6col-sm-6col-md-6col-lg-4pt-3:hover{
+    cursor: pointer;
+}
